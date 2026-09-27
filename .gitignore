@@ -1,0 +1,6 @@
+# Compiled classes
+*.class
+
+# Local account data
+accounts.csv
+transactions.csv
