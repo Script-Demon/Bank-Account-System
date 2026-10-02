@@ -14,6 +14,24 @@ A console-based bank account manager.
 
 Accounts and transactions are saved to `accounts.csv` and `transactions.csv` after every change and loaded again on startup.
 
+## Screenshots
+
+**Creating accounts**
+
+![Creating two accounts](screenshots/01-create-account.png)
+
+**Depositing and withdrawing** (a withdrawal larger than the balance is rejected)
+
+![Deposit and withdraw](screenshots/02-deposit-withdraw.png)
+
+**Transferring between accounts**
+
+![Transfer between accounts](screenshots/03-transfer.png)
+
+**Account details with transaction history**
+
+![Account details and transaction history](screenshots/04-account-details.png)
+
 ## Requirements
 
 - JDK 14 or newer (for example, Eclipse Temurin from https://adoptium.net)
