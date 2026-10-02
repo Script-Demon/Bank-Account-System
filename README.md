@@ -55,3 +55,7 @@ java BankSystem
 | `run.bat` | Compiles and runs the program on Windows |
 | `accounts.csv` | Created automatically; stores saved accounts |
 | `transactions.csv` | Created automatically; stores transaction history |
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
